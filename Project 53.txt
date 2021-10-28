@@ -1,0 +1,11 @@
+1. Java Script
+2. HTML
+3. seperate your code, easier to assign one thing certain properties
+4. relative - somewhere close, absolute - exact spot
+5. create transperancy
+6. JavaScript
+7. Snack
+8. open Expo Go on phone, click scan QR, click android or IOS on laptop, scan QR code on phone
+9. share code between components
+10. anything returned by a function component is a React Element
+11. Button, App, Text
